@@ -49,7 +49,7 @@ img {
 .music-app {
   position: relative;
   background: #573859;
-  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 10px 5px rgba(255, 105, 180, 0.7);
   z-index: 0;
   border-radius: 20px;
   overflow: hidden;
