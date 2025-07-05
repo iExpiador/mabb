@@ -61,13 +61,13 @@ img {
 }
 @keyframes shadow-pulse {
   0% {
-    box-shadow: 0 0 50px 20px rgba(0, 0, 0, 0.5) inset, 0 0 50px 10px #FF0000, 0 0 5px 0.2px #Fee140, 0 0 5px 0.2px #Fee140;
+    box-shadow: 0 0 50px 20px rgba(0, 0, 0, 0.5) inset, 0 0 50px 10px #FF69B4, 0 0 5px 0.2px #FFB6C1, 0 0 5px 0.2px #FF00FF;
   }
   50% {
-    box-shadow: 0 0 50px 20px rgba(0, 0, 0, 0.5) inset, 0 0 50px 20px #FF0000, 0 0 10px 0.5px #Fee140, 0 0 5px 0.2px #Fee140;
+    box-shadow: 0 0 50px 20px rgba(0, 0, 0, 0.5) inset, 0 0 50px 20px #FF69B4, 0 0 10px 0.5px #FFB6C1, 0 0 5px 0.2px #FF00FF;
   }
   100% {
-    box-shadow: 0 0 50px 20px rgba(0, 0, 0, 0.5) inset, 0 0 50px 10px #FF0000, 0 0 5px 0.2px #Fee140, 0 0 5px 0.2px #Fee140;
+    box-shadow: 0 0 50px 20px rgba(0, 0, 0, 0.5) inset, 0 0 50px 10px #FF69B4, 0 0 5px 0.2px #FFB6C1, 0 0 5px 0.2px #FF00FF;
   }
 }
 .music-app .player.active {
