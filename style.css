@@ -24,7 +24,7 @@ html, body {
 }
 
 body {
-  background-color: #362633;
+  background-color: #5D83AE;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;
@@ -48,7 +48,7 @@ img {
 
 .music-app {
   position: relative;
-  background: #291927;
+  background: #A6BDDC;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
   z-index: 0;
   border-radius: 20px;
@@ -110,7 +110,7 @@ img {
   border-radius: 50%;
   background-image: url("https://i.imgur.com/4GIm6jo.gif");
   background-size: cover;
-  border: 7px solid #1f2128;
+  border: 7px solid #5D83AE;
 }
 
 .cover-title {
