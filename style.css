@@ -24,7 +24,7 @@ html, body {
 }
 
 body {
-  background-color: #5D83AE;
+  background-color: #2e1e2f;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;
@@ -48,7 +48,7 @@ img {
 
 .music-app {
   position: relative;
-  background: #A6BDDC;
+  background: #573859;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
   z-index: 0;
   border-radius: 20px;
