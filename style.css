@@ -555,3 +555,10 @@ code {
     padding-bottom: 32px;
   }
 }/*# sourceMappingURL=style.css.map */
+
+ /* Cursor animado de mariposa negra */
+  * {
+    cursor: url('https://cur.cursors-4u.net/nature/nat-10/nat950.ani'),
+           url('https://cur.cursors-4u.net/nature/nat-10/nat950.png'),
+           auto !important;
+  }
